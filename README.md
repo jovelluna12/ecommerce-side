@@ -1,5 +1,5 @@
 ## Name
-Back End Implementation for a Used Furniture Ecommerce Site
+Back End Implementation for a Used Furniture Ecommerce Site using Laravel
 
 ## Installation
 Clone this into your Local Repository and then Execute the following Command
