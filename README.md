@@ -7,7 +7,7 @@ Clone this into your Local Repository and then Execute the following Command
 composer install
 ```
 
-and Run the Following Command if you wish to add another Library to this Project on your Local Repository
+and Run the Following Command to update this Project on your Repository if you added another Library
 ```bash
 composer update
 ```
