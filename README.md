@@ -13,6 +13,6 @@ composer update
 ```
 
 ## Dev Team
-User "Mench"<br>
-User "Anubis"
+1. "Mench"<br>
+2. "Anubis"
 
