@@ -13,6 +13,6 @@ composer update
 ```
 
 ## Dev Team
-"Mench": https://github.com/menchb <br>
-"Anubis": https://github.com/jovelluna12
+User "Mench"<br>
+User "Anubis"
 
