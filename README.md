@@ -2,7 +2,10 @@
 Back End Implementation for a Used Furniture Ecommerce Site using Laravel
 
 ## Installation
-Make sure you have [Composer](https://getcomposer.org/) Installed before you Execute the Following Commands <br> <br> 
+Make sure you have the Following Installed before you Execute the Following Commands <br> 
+[Composer](https://getcomposer.org/) <br> 
+[Latest Version of PHP](https://www.php.net/) <br> 
+
 Clone this into your Local Repository and then Execute the following Command on your Terminal
 ```bash
 composer install
