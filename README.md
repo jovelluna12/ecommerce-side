@@ -7,7 +7,7 @@ Make sure you have the Following Installed before you Execute the Following Comm
 [Composer](https://getcomposer.org/) <br> 
 
 
-Clone this into your Local Repository and then Execute the following Command on your Terminal
+Clone this Repo into your Local Repository and then Execute the following Command on your Terminal
 ```bash
 composer install
 ```
