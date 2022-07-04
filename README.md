@@ -12,7 +12,7 @@ Clone this Repo into your Local Repository and then Execute the following Comman
 composer install
 ```
 
-and Run the Following Command on your Terminal to update this Project on your Repository if you added another Library
+Run the Following Command on your Terminal to update this Project on your Repository if you added another Library
 ```bash
 composer update
 ```
